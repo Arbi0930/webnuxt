@@ -9,6 +9,7 @@
         stroke-width="2"
         :style="{ color: color }"
       >
+        
         <path
           stroke-linecap="round"
           stroke-linejoin="round"

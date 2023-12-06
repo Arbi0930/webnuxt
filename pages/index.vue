@@ -1,3 +1,3 @@
-<template>
-    <nuxt-link to="./car/trafficfee">ff</nuxt-link>
+<template >
+    <nuxt-link to="./car" >ff</nuxt-link>
 </template>
